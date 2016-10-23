@@ -1,0 +1,50 @@
+  530  npm install -g gulp
+  531  cd
+  532  sudo npm install -g gulp
+  533  less ~/personal/.usefuls
+  534  git
+  535  cd
+  536  cd
+  537  ls
+  538  git --version
+  539  node --version
+  540  npm --version
+  541  echo $PATH
+  542  sudo npm install -g browser-sync
+  543  browser-sync --version
+  544  cd
+  545  cd projects/
+  546  ls
+  547   cd web
+  548  mkdir test
+  549  ls
+  550  ls
+  551  mkdir test_site
+  552  ls
+  553  cd test_site/
+  554  ls
+  555  browser-sync start --server --directory --files "*"
+  556  git clone https://github.com/totajul/web-test.git
+  557  ls
+  558  less
+  559  ls
+  560  cd web-test/
+  561  ls
+  562  git status
+  563  git checkout gh-pages
+  564  git status
+  565  ls
+  566  ls
+  567  mkdir site
+  568  cd site
+  569  open -a sublime
+  570  open -a Sublime
+  571  sublime
+  572  open -a sublime
+  573  open -a sublime\ Text
+  574  history
+  575  history | tail -n100
+  576  history | tail -n100 | head
+  577  history | tail -n50 | head
+  578  history | tail -n55 | head
+  579  history | tail -n50 > history_cmds.txt

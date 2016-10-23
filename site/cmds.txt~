@@ -1,0 +1,36 @@
+npm install -g gulp
+sudo npm install -g gulp
+git --version
+node --version
+npm --version
+echo $PATH
+
+sudo npm install -g browser-sync
+browser-sync --version
+cd projects/
+cd web
+mkdir test_site
+cd test_site/
+browser-sync start --server --directory --files "*"
+#create the repository web-test on github and then get it
+git clone https://github.com/totajul/web-test.git
+cd web-test/
+ls
+git status
+git checkout gh-pages
+git status
+ls
+ls
+mkdir site
+cd site
+open -a sublime
+open -a Sublime
+sublime
+open -a sublime
+open -a sublime\ Text
+history
+history | tail -n100
+history | tail -n100 | head
+history | tail -n50 | head
+history | tail -n55 | head
+history | tail -n50 > history_cmds.txt
